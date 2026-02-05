@@ -1,0 +1,4 @@
+pandas
+matplotlib
+seaborn
+jupyter/Google Colab/Visual Studio
